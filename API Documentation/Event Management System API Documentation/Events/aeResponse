@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1b3db1f3-c711-474a-a3cb-708334f3163b",
+    "title": "Updated Event Title",
+    "date": "2023-01-02T15:00:00Z",
+    "location": "Updated Event Location"
+  },
+  {
+    "id": "2b4db2f4-c822-585b-b4da-901235f4264a",
+    "title": "Another Event",
+    "date": "2023-02-01T18:30:00Z",
+    "location": "Another Location"
+  }
+]
