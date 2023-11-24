@@ -1,0 +1,6 @@
+200 OK: Successful request.
+201 Created: Resource created successfully.
+204 No Content: Successful request with no response body.
+400 Bad Request: Malformed request or validation error.
+401 Unauthorized: Authentication failure.
+403 Forbidden: Access
