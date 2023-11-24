@@ -1,4 +1,6 @@
-//This table stores information about registered users in the system.
+/*
+This table stores information about registered users in the system.
+*/
 
 CREATE TABLE IF NOT EXISTS users (
     id UUID PRIMARY KEY,
