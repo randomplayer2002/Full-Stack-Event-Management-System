@@ -1,0 +1,9 @@
+{
+  "id": "1b3db1f3-c711-474a-a3cb-708334f3163b",
+  "title": "Event Title",
+  "description": "Event Description",
+  "date": "2023-01-01T12:00:00Z",
+  "location": "Event Location",
+  "capacity": 100,
+  "organizer_id": "1b3db1f3-c711-474a-a3cb-708334f3163b"
+}
